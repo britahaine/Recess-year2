@@ -10,4 +10,4 @@
 
 names=["britah","aine","yusuf","mugoya","zaward"]
 a,b,c,d,h=names
-print(names[1])
+print(names)
